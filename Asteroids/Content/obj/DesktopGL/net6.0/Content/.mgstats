@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/tildo/Channel_Projects/LearnCSharp/Asteroids/Content/Player_Ship/ship.png","/home/tildo/Channel_Projects/LearnCSharp/Asteroids/Content/bin/DesktopGL/Content/Player_Ship/Ship.xnb","TextureProcessor","Texture2DContent",1470,15445,0.1089373
